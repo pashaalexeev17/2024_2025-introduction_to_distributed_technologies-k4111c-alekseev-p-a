@@ -1,11 +1,19 @@
 University: [ITMO University](https://itmo.ru/ru/)
+
 Faculty: [FICT](https://fict.itmo.ru)
+
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)
+
 Year: 2024/2025
+
 Group: K4111с
+
 Author: Alekseev Pavel
+
 Lab: Lab2
+
 Date of create: 04.12.2024
+
 Date of finished: 05.12.2024
 
 
@@ -93,6 +101,10 @@ minikube kubectl -- get pods
 `kubectl port-forward service/app 3000:3000`
 
 ![3](screens/3.png)
+
+Проверка
+![6](screens/6.png)
+
 
 Вопрос: 
 
