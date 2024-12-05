@@ -102,6 +102,9 @@ minikube kubectl -- get pods
 
 ![3](screens/3.png)
 
+Проверка
+![6](screens/6.png)
+
 Вопрос: 
 
 Переменные  `REACT_APP_USERNAME`,  `REACT_APP_COMPANY_NAME`  и  `Container name`. Изменяются ли они? Если да, то почему? 
