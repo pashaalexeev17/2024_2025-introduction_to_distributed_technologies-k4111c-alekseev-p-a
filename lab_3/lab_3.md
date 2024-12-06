@@ -170,7 +170,7 @@ name: http
 
   
 
-![1](/screens/1.png)
+![1](screens/1.png)
 
   
 
@@ -178,7 +178,7 @@ name: http
 
   
 
-![2](/screens/2.png)
+![2](screens/2.png)
 
   
 
@@ -186,20 +186,20 @@ name: http
 
   
 
-![3](/screens/3.png)
+![3](screens/3.png)
 
   
 
 Cертификат был добавлен в minikube `kubectl create secret tls app-tls --key="itdt.key" --cert="itdt.crt"`. Конфигурация манифеста была принята еще раз `kubectl apply -f manifest.yaml`
 
 
-![4](/screens/4.png)
+![4](screens/4.png)
 
   
 
 В файле /etc/hosts был добавлен pashka-lab3.com
 
-  ![5](/screens/5.png)
+![5](screens/5.png)
 
   
 
@@ -211,21 +211,21 @@ Cертификат был добавлен в minikube `kubectl create secret t
 
   
 
-![6](/screens/6.png)
+![6](screens/6.png)
 
   
 
 В браузере заходим по указанному доменному имени 
 
   
-![7](/screens/7.png)
+![7](screens/7.png)
 
   
 
 Cертификат
 
 
-![8](/screens/8.png)
+![8](screens/8.png)
 
   
 
@@ -233,4 +233,4 @@ Cертификат
 
   
 
-![9](/screens/9.png)
+![9](screens/9.png)
